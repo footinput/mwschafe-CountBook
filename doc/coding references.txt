@@ -1,0 +1,10 @@
+Links for code references:
+http://stackoverflow.com/questions/5070830/populating-a-listview-using-an-arraylist
+
+http://stackoverflow.com/questions/19662233/how-open-new-activity-clicking-an-item-in-listview
+
+http://stackoverflow.com/questions/15146339/catching-nullpointerexception-in-java
+
+http://stackoverflow.com/questions/2736389/how-to-pass-an-object-from-one-activity-to-another-on-android
+
+http://stackoverflow.com/questions/16566644/com-google-gson-jsonsyntaxexception-expected-begin-array-but-was-string
