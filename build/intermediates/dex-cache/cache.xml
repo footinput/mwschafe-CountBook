@@ -2,121 +2,103 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\Maxsg\Desktop\mwschafe-SizeBook\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Max\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
         optimize="true"
-        revision="23.0.2"
-        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="C:\Users\Maxsg\Desktop\mwschafe-SizeBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_760dc73bea61230b4e4ca87242ebf0ce117da78a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Maxsg\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
+        revision="25.0.0"
         sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
-        <dex dex="C:\Users\Maxsg\Desktop\mwschafe-SizeBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_eb6e17b65a2d5c86bba1cb5ee4890705ebdca01a\classes.dex" />
+        <dex dex="C:\Users\Max\Documents\GitHub\mwschafe-SizeBook\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_5cec2952b193dfbc48f6ed1ceaf1caab13d6754b.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Maxsg\Desktop\mwschafe-SizeBook\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Max\.android\build-cache\058ceab4193352c1f11723a2f128474b9899fcc5\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="23.0.2"
-        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="C:\Users\Maxsg\Desktop\mwschafe-SizeBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_726f774c41ff4e4b4a02ed3cfccf7bba610a67c3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Maxsg\Desktop\mwschafe-SizeBook\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="41fcbca43857f6e0b0830fba59e50c18d5dcb708">
-        <dex dex="C:\Users\Maxsg\Desktop\mwschafe-SizeBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7a5313a6559cad92fe69a39a6dcb5f852520e484\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Maxsg\Desktop\mwschafe-SizeBook\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
+        revision="25.0.0"
         sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="C:\Users\Maxsg\Desktop\mwschafe-SizeBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_0cf5bb6b2bb05d08080f412081ba03aa8ed41b7d\classes.dex" />
+        <dex dex="C:\Users\Max\Documents\GitHub\mwschafe-SizeBook\app\build\intermediates\pre-dexed\debug\classes_8dfba66a08a79a8a7b36d521fda1c2e745ed8138.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Maxsg\Desktop\mwschafe-SizeBook\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Max\.android\build-cache\effb9ff6e15806e89193be9a3259e06c7eb67aa6\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="23.0.2"
-        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="C:\Users\Maxsg\Desktop\mwschafe-SizeBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_76873eb0b822575d2ce4ea93a4f30153a5ac27c6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Maxsg\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
-        <dex dex="C:\Users\Maxsg\Desktop\mwschafe-SizeBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_533d17cd5d5b044747c628ce5460c8ce88e68ffe\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Maxsg\Desktop\mwschafe-SizeBook\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="d910070c82978ef5309e8e3484f24cbc77cce52f">
-        <dex dex="C:\Users\Maxsg\Desktop\mwschafe-SizeBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a1462f49de2d72963ed32e933d72a36a4a24ddc7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Maxsg\Desktop\mwschafe-SizeBook\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="C:\Users\Maxsg\Desktop\mwschafe-SizeBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_7887d97b8ab82ddd8a5339e11138c61823d3c48f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Maxsg\Desktop\mwschafe-SizeBook\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
+        revision="25.0.0"
         sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="C:\Users\Maxsg\Desktop\mwschafe-SizeBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_cf1c582dde9ce3c3881e2046fe1ced5482e93f35\classes.dex" />
+        <dex dex="C:\Users\Max\Documents\GitHub\mwschafe-SizeBook\app\build\intermediates\pre-dexed\debug\classes_7d52970229673302753da36a79d4f9b162115a69.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Maxsg\Desktop\mwschafe-SizeBook\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Max\.android\build-cache\4b43cca8b488478a12dd25e2aa184ee8f4d82417\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="23.0.2"
+        revision="25.0.0"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Max\Documents\GitHub\mwschafe-SizeBook\app\build\intermediates\pre-dexed\debug\classes_a3a69dc040df293e086710e5002c1be7a093b58a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.android\build-cache\e2dfd43f32a30fdad82365170fab7e09015bfdb1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Max\Documents\GitHub\mwschafe-SizeBook\app\build\intermediates\pre-dexed\debug\classes_d3fa4b418bddb69f35c0cbd6e9b155c6be1ca25e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.android\build-cache\e8420f182754e08af0d8ce2cd0652cd3ba750d49\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Max\Documents\GitHub\mwschafe-SizeBook\app\build\intermediates\pre-dexed\debug\classes_e53740aa0c32fcfcf38f5e0a9d5fd30fa5078374.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.android\build-cache\096a9345a13ae95dcdce7280e24d0597eb1b3cd7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Maxsg\Desktop\mwschafe-SizeBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_83266a66eee0533498b7b3ccdd8a85ccb9cced80\classes.dex" />
+        <dex dex="C:\Users\Max\Documents\GitHub\mwschafe-SizeBook\app\build\intermediates\pre-dexed\debug\classes_2f927ac3adc0c0c3aa1509834ca52bbae3564b8c.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Maxsg\Desktop\mwschafe-SizeBook\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Max\.android\build-cache\2d491d180e40c48141f58bf55e4482d42ba8316c\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="23.0.2"
-        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="C:\Users\Maxsg\Desktop\mwschafe-SizeBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_1a5cdc63ab1a93663b44bbc99b2dbeaad4c039c7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Maxsg\Desktop\mwschafe-SizeBook\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
+        revision="25.0.0"
         sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="C:\Users\Maxsg\Desktop\mwschafe-SizeBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_65a289327abc2b1e2e1d88e95f5560070921170b\classes.dex" />
+        <dex dex="C:\Users\Max\Documents\GitHub\mwschafe-SizeBook\app\build\intermediates\pre-dexed\debug\classes_8f313eb433568b138b7c5d45616419a68f2d544b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.android\build-cache\5bd43878e30f72e785e8f67c65b1d5f66f24bc8d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Max\Documents\GitHub\mwschafe-SizeBook\app\build\intermediates\pre-dexed\debug\classes_0ca7c5c648c34a642eb43181d304051281bf49ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\Users\Max\Documents\GitHub\mwschafe-SizeBook\app\build\intermediates\pre-dexed\debug\gson-2.8.0_fa36081d366f7622bb8a9d5636521451d5dc224a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.android\build-cache\41ae6b0bdaaf79088b646b2ab02dd5963cb389e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Max\Documents\GitHub\mwschafe-SizeBook\app\build\intermediates\pre-dexed\debug\classes_b658d5944a6c91cf75ecf4873537ffed6abbca12.jar" />
     </item>
 
 </items>

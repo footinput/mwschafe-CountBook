@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_add_relative"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.mwschafe_CountBook.addCounter">
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:ems="10"
+        android:layout_marginTop="27dp"
+        android:id="@+id/initialValue"
+        android:background="@android:color/darker_gray"
+        android:layout_below="@+id/textView4"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/comment"
+        android:background="@android:color/darker_gray"
+        android:layout_alignTop="@+id/textView9"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:text="Date in yyyy-mm-dd format:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3"
+        android:textSize="14sp"
+        android:textColor="@android:color/background_light"
+        android:layout_above="@+id/currentValue"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_toLeftOf="@+id/currentValue"
+        android:layout_toStartOf="@+id/currentValue" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/currentValue"
+        android:layout_alignBottom="@+id/currentValue"
+        android:layout_alignEnd="@+id/textView2"
+        android:layout_alignRight="@+id/textView2"
+        android:text="CurrentValue:"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp" />
+
+    <TextView
+        android:text="Name:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:textSize="18sp"
+        android:textColor="@android:color/background_light"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/nameNew"
+        android:layout_toStartOf="@+id/nameNew" />
+
+    <TextView
+        android:text="Comment:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView9"
+        android:textSize="18sp"
+        android:textColor="@android:color/background_light"
+        android:layout_marginTop="23dp"
+        android:layout_below="@+id/initialValue"
+        android:layout_toLeftOf="@+id/comment"
+        android:layout_toStartOf="@+id/comment" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/initialValue"
+        android:layout_alignBottom="@+id/initialValue"
+        android:layout_toLeftOf="@+id/initialValue"
+        android:layout_toStartOf="@+id/initialValue"
+        android:text="InitialValue"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/addCounterButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="74dp"
+        android:background="@color/colorPrimaryDark"
+        android:text="Save"
+        android:layout_below="@+id/comment"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+
+        android:ems="10"
+        android:id="@+id/nameNew"
+        android:background="@android:color/darker_gray"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <EditText
+        android:id="@+id/currentValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/date"
+        android:layout_marginTop="21dp"
+        android:background="@android:color/darker_gray"
+        android:ems="10"
+        android:inputType="number" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/date"
+        android:background="@android:color/darker_gray"
+        android:layout_marginTop="21dp"
+        android:layout_below="@+id/textView2"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+
+</RelativeLayout>
